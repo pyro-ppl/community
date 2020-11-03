@@ -33,7 +33,7 @@ For other repos see git commit history.
 
 ## Technical Steering Committee
 
-Pyro development is governed by a the Technical Steering Committee (TSC).
+Pyro development is governed by the Technical Steering Committee (TSC).
 
 - Eli Bingham (@eb8680)
 - Jonathan P. Chen (@jpchen)
