@@ -1,5 +1,11 @@
 # Governance for Pyro, NumPyro, and related projects
 
+Pyro is owned by the [LF AI Foundation](https://wiki.lfaidata.foundation/display/PYRO/Pyro+Home).
+
+## Charter
+
+See Pyro's [Technical Charter](https://wiki.lfaidata.foundation/download/attachments/7733298/Pyro%20Project%20Technical%20Charter%201-7-2020.pdf?version=1&modificationDate=1580158662000&api=v2).
+
 ## Code owners
 
 When proposing changes to Pyro projects we recommend cc'ing the following owners.
@@ -24,3 +30,15 @@ For very large design changes we recommend creating a [design document](https://
   @eb8680 and @fritzo
 
 For other repos see git commit history.
+
+## Technical Steering Committee
+
+Pyro development is governed by a the Technical Steering Committee (TSC).
+
+- Eli Bingham (@eb8680)
+- Jonathan P. Chen (@jpchen)
+- Martin Jankowiak (@martinjankowiak)
+- Fritz Obermeyer (@fritzo) - Chair
+- Du Phan (@fehiepsi)
+- Neeraj Pradhan (@neerajprad)
+- Stefan Webb (@stefanwebb)
