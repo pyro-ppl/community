@@ -1,2 +1,1 @@
-# community
-Governance for Pyro, NumPyro, and related projects
+# Governance for Pyro, NumPyro, and related projects
